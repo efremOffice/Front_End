@@ -14,7 +14,7 @@ const theme = createTheme({
       <Typography pt={2} variant="body2" color="text.secondary" align="center" {...props}>
         {'Copyright © '}
         <Link color="inherit" href="/">
-         Efrem-Yohanis
+         Efrem-Yohanis new chage
         </Link>{' '}
         {new Date().getFullYear()}
         {'.'}
